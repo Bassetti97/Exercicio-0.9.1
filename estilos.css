@@ -4,7 +4,7 @@
     --cor-visto2:   rgb(168, 170, 170);
     --cor-recebido: #00a884;
     --cor-letra:    white;
-    --cor-conteiner:rgb(12, 11, 11);
+    --cor-conteiner:black;
 }
 body{
     display: flex;
