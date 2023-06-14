@@ -82,5 +82,19 @@ button:hover{
     right: 7px;
     font-size: 13px;
 }
-
-
+hr{
+    border: none;
+    border-bottom: 2px dotted var(--cor-letra);
+    margin: 10px;
+}
+.seta{
+    position: absolute;
+    top: 5px;
+    right: 6px;
+    fill: none;
+    font-size: 12px;
+}
+.seta:hover{
+    cursor: pointer;
+    fill: var(--cor-letra);
+}
