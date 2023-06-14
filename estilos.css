@@ -13,9 +13,9 @@ body{
 }
 .conteiner{
     background-color: var(--cor-conteiner);
-    width: 500px;
-    height: 400px;
-    border-radius: 20px;
+    width: 550px;
+    height: 450px;
+    border-radius: 10px;
 }
 .titulo{
     justify-content: space-between;
