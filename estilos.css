@@ -94,7 +94,8 @@ hr{
     fill: none;
     font-size: 12px;
 }
-.seta:hover{
+.enviado:hover .seta, .recebido:hover .seta{
     cursor: pointer;
     fill: var(--cor-letra);
 }
+
